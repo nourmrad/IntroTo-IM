@@ -2,5 +2,4 @@
 ## smaller
 *italic*
 **bold**
-![]images/screen shot.png
-
+![]images / screen shot.png
